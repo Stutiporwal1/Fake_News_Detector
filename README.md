@@ -10,7 +10,7 @@ A web-based application designed to detect and classify news articles as **Real*
 - Multiple frontend pages: Home, About, Contact
 - Lightweight and easy to deploy
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|--------------|
@@ -18,8 +18,5 @@ A web-based application designed to detect and classify news articles as **Real*
 | Styling   | Custom CSS |
 | Pages     | index.html, home.html, about.html, contact.html |
 
----
-
-## 📁 Project Structure
 
 
