@@ -1,11 +1,6 @@
-# Fake_News_Detector
+# Fake News Detector
 
-# 📰 Fake News Detector
-
-A simple web-based application designed to detect and classify news articles as **Real** or **Fake**.  
-This project aims to contribute towards reducing misinformation by providing users with a quick way to verify textual content.
-
----
+A web-based application designed to detect and classify news articles as **Real** or **Fake**. This project aims to contribute towards reducing misinformation by providing users with a quick way to verify textual content.
 
 ## 🚀 Features
 
